@@ -23,7 +23,7 @@ This library uses PHP 5.3+.
 It is recommended that you install the PHP Browser library [through composer](http://getcomposer.org). To do so, run the following command:
 
 ```sh
-composer require sinergi/browser-detector
+composer require viaaurea/sinergi-browser-detector 
 ```
 
 ## Browser Detection
